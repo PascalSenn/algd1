@@ -1,0 +1,10 @@
+
+.devcontainer/
+.vscode/
+ch.fhnw.algd1.binaryint.w/.classpath
+ch.fhnw.algd1.binaryint.w/.gradle/ 
+ch.fhnw.algd1.binaryint.w/.project
+ch.fhnw.algd1.binaryint.w/.settings/
+ch.fhnw.algd1.binaryint.w/bin/
+ch.fhnw.algd1.binaryint.w/build.gradle 
+ch.fhnw.algd1.binaryint.w/gradle/  

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/workspaces/algd1"
+		},
+		{
+			"path": "/workspaces/algd1/ch.fhnw.algd1.binaryint"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.dependency.syncWithFolderExplorer": true
+	}
+}
