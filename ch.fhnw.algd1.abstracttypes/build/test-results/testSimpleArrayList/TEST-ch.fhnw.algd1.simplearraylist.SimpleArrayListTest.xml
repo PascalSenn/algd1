@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2019-10-08T15:31:36" hostname="LAPTOP-TO347PSD" time="0.099">
+  <properties/>
+  <testcase name="testAddAnywhere" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.001"/>
+  <testcase name="testAddWithEnlarge" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.001"/>
+  <testcase name="testAddOnHugeTooLargeIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testEnlargeAfterPotentialShrink" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.081"/>
+  <testcase name="testAddOnSmallTooLargeIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testGetOnValidIndex" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testIndexAdd_WithoutEnlarge" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testSetOnNegativIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testIndexSet" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="addNullValue" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testGetOnNegativIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testSetOnTooLargeIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testAddWithEnlargeReverse" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.005"/>
+  <testcase name="testRemove" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.0"/>
+  <testcase name="testGetOnSizeAsIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.001"/>
+  <testcase name="testGetOnTooLargeIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.002"/>
+  <testcase name="testAddOnNegativIndex_ExpectException" classname="ch.fhnw.algd1.simplearraylist.SimpleArrayListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
